@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "437097380206",
+    "project_id": "gantavya-5f8f2",
+    "storage_bucket": "gantavya-5f8f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437097380206:android:af3169ea6038c0490da97f",
+        "android_client_info": {
+          "package_name": "com.example.gantavya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwXjRcbT6gtgB2VfvW8pAMA6vPrPidcdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
